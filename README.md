@@ -1,5 +1,5 @@
 # Deploying-Flask-app-in-Heroku
-[https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku]
+https://github.com/KrsnaAleti/My_Resources/tree/main/Flask_Database_Heroku
 
 ### This Project covers the following:
 * An application created using Flask in Python
